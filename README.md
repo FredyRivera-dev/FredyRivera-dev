@@ -1,5 +1,7 @@
 
-![O](https://github.com/user-attachments/assets/bff5c0a0-ee85-41d2-830c-05fc77a07b11)
+![V2](https://github.com/user-attachments/assets/91a72482-d2c4-4ac0-964b-b2994643cc8b)
+
+# Hey, I'm Fredy!
 
 * 🌎 I am a **Full-Stack Developer** from El Salvador
 * 🔗 Visit my [Portfolio](https://riverasolutions.vercel.app/)
