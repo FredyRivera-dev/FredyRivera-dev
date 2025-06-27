@@ -23,7 +23,7 @@
 
 ## GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=F4k3r22&theme=dark)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=F4k3r22&theme=dark)](https://git.io/streak-stats)-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F4k3r22&layout=compact)
 
