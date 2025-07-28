@@ -9,7 +9,7 @@
 
   * ⚡ **Back end:** FastAPI (Python) for a lightweight, scalable backend
   * 🎨 **Front end:** HTML Templates + TailwindCSS or Vite + React with TailwindCSS for a clean, responsive UI
-  * 💾 **Databases:** PostgreSQL, SQLite, MySQL
+  * 💾 **Databases:** PostgreSQL, SQLite, MySQL, Redis
   * 🤖 **AI & Integrations:** OpenAI, Google Gemini, Anthropic Claude, RAG pipelines, text-to-speech, and more
   * 🔌 **Service Integration:** REST APIs, WebSockets, real-time data
   * 💳 **Payment Integration:** Stripe, PayPal
