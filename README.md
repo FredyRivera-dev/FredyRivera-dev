@@ -19,11 +19,3 @@
   * 🚀 **Vercel:** Serverless deployments with zero configuration and instant previews
   * 🐳 **DigitalOcean:** Flexible Droplets for apps and databases
   * 🔧 **AWS EC2:** Full control and scalability with custom instances
-
-
-## GitHub Stats
-
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=F4k3r22&theme=dark)](https://git.io/streak-stats)-->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F4k3r22&layout=compact)
-
