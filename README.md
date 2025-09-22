@@ -4,6 +4,7 @@
 # Hey, I'm Fredy!
 
 * 🌎 I am a **Full-Stack Developer** from El Salvador
+* 🔗 Visit my [Portfolio](https://f4k3r22-portafolio.vercel.app/)
 * 🛠️ **Techstack:**
 
   * ⚡ **Back end:** FastAPI (Python) for a lightweight, scalable backend
