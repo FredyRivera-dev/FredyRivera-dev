@@ -6,7 +6,7 @@
 * 🌎 I am a **Full-Stack Developer** and **AI-Developer** from El Salvador
 * 🔗 Visit my [Portfolio](https://fredy-rivera-dev-portafolio.vercel.app/)
 * 🤗 My AI models and datasets on [HuggingFace](https://huggingface.co/Fredtt3)
-*  **My Own Initiatives:** **[Aquiles-ai](https://github.com/Aquiles-ai)** - AI Solutions Ecosystem focused on RAG and inference optimization - 26 stars across projects - [View on HuggingFace](https://huggingface.co/Aquiles-ai)
+*  **My Own Initiatives:** **[Aquiles-ai](https://github.com/Aquiles-ai)** - AI Solutions Ecosystem focused on RAG and inference optimization - [View on HuggingFace](https://huggingface.co/Aquiles-ai)
 * 🛠️ **Techstack:**
 
   * ⚡ **Back end:** FastAPI (Python) for a lightweight, scalable backend
