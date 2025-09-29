@@ -1,5 +1,6 @@
 
-![V2](https://github.com/user-attachments/assets/91a72482-d2c4-4ac0-964b-b2994643cc8b)
+<img width="1280" height="600" alt="new" src="https://github.com/user-attachments/assets/b992611b-7b5e-46b2-b559-65db3d91a3f1" />
+
 
 # Hey, I'm Fredy!
 
