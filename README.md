@@ -9,6 +9,19 @@
 * 📝 Visit my [Blog](https://fredy-rivera-dev-portafolio.vercel.app/blog)
 * 🤗 My AI models and datasets on [HuggingFace](https://huggingface.co/Fredtt3)
 *  **My Own Initiatives:** **[Aquiles-ai](https://github.com/Aquiles-ai)** - AI Solutions Ecosystem focused on RAG and inference optimization - [View on HuggingFace](https://huggingface.co/Aquiles-ai)
+
+## Contributions to open source projects:
+
+<p align="center">
+
+[![diffusers](https://github-readme-stats.vercel.app/api/pin/?username=huggingface&repo=diffusers)](https://github.com/huggingface/diffusers)
+
+[![LightX2V](https://github-readme-stats.vercel.app/api/pin/?username=ModelTC&repo=LightX2V)](https://github.com/ModelTC/LightX2V)
+
+[![modal-examples](https://github-readme-stats.vercel.app/api/pin/?username=modal-labs&repo=modal-examples)](https://github.com/modal-labs/modal-examples)
+
+</p>
+
 * 🛠️ **Techstack:**
 
   * ⚡ **Back end:** FastAPI (Python) for a lightweight, scalable backend
