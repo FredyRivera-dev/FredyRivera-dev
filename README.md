@@ -22,7 +22,7 @@
 
 </p>
 
-* 🛠️ **Techstack:**
+### 🛠️ **Techstack:**
 
   * ⚡ **Back end:** FastAPI (Python) for a lightweight, scalable backend
   * 🎨 **Front end:** Next.js + React with TailwindCSS for a clean, responsive UI
@@ -31,7 +31,8 @@
   * 🔌 **Service Integration:** REST APIs, WebSockets, real-time data
   * 💳 **Payment Integration:** Stripe, PayPal
   * 🔍 **RAG & Vector Search:** Supabase pgvector, Pinecone, OpenAI Embeddings, semantic search
-* ☁️ **Deployment:**
+  
+### ☁️ **Deployment:**
 
   * 🚀 **Vercel:** Serverless deployments with zero configuration and instant previews
   * 🐳 **DigitalOcean:** Flexible Droplets for apps and databases
