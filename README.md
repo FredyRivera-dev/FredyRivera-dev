@@ -37,3 +37,12 @@
   * 🚀 **Vercel:** Serverless deployments with zero configuration and instant previews
   * 🐳 **DigitalOcean:** Flexible Droplets for apps and databases
   * 🔧 **AWS EC2:** Full control and scalability with custom instances
+
+# Stats
+
+<a>
+  <img height=200 align="center" src="https://github-readme-stats-fredy.vercel.app/api?username=FredyRivera-dev&show_icons=true" />
+</a>
+<a>
+  <img height=200 align="center" src="https://github-readme-stats-fredy.vercel.app/api/top-langs?username=FredyRivera-dev&layout=compact&langs_count=8&card_width=320" />
+</a>
