@@ -14,11 +14,11 @@
 
 <p align="center">
 
-[![diffusers](https://github-readme-stats.vercel.app/api/pin/?username=huggingface&repo=diffusers)](https://github.com/huggingface/diffusers)
+[![diffusers](https://github-readme-stats-fredy.vercel.app/api/pin/?username=huggingface&repo=diffusers)](https://github.com/huggingface/diffusers)
 
-[![LightX2V](https://github-readme-stats.vercel.app/api/pin/?username=ModelTC&repo=LightX2V)](https://github.com/ModelTC/LightX2V)
+[![LightX2V](https://github-readme-stats-fredy.vercel.app/api/pin/?username=ModelTC&repo=LightX2V)](https://github.com/ModelTC/LightX2V)
 
-[![modal-examples](https://github-readme-stats.vercel.app/api/pin/?username=modal-labs&repo=modal-examples)](https://github.com/modal-labs/modal-examples)
+[![modal-examples](https://github-readme-stats-fredy.vercel.app/api/pin/?username=modal-labs&repo=modal-examples)](https://github.com/modal-labs/modal-examples)
 
 </p>
 
