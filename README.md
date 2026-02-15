@@ -1,5 +1,6 @@
 
-<img width="1280" height="600" alt="new" src="https://github.com/user-attachments/assets/b992611b-7b5e-46b2-b559-65db3d91a3f1" />
+<img width="2560" height="1200" alt="Fredy" src="https://github.com/user-attachments/assets/0e3275d6-e3d0-4ef4-9956-64ec66069a05" />
+
 
 
 # Hey, I'm Fredy!
