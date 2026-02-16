@@ -9,7 +9,7 @@
 * 🔗 Visit my [Portfolio](https://fredy-rivera-dev-portafolio.vercel.app/)
 * 📝 Visit my [Blog](https://fredy-rivera-dev-portafolio.vercel.app/blog)
 * 🤗 My AI models and datasets on [HuggingFace](https://huggingface.co/Fredtt3)
-*  **My Own Initiatives:** **[Aquiles-ai](https://github.com/Aquiles-ai)** - AI Solutions Ecosystem focused on RAG and inference optimization - [View on HuggingFace](https://huggingface.co/Aquiles-ai)
+*  **My Own Initiatives:** **[Aquiles-ai](https://github.com/Aquiles-ai)** - AI Solutions Ecosystem focused on AI Enterprise and inference optimization - [View on HuggingFace](https://huggingface.co/Aquiles-ai)
 
 ## Contributions to open source projects:
 
