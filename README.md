@@ -19,7 +19,6 @@
 
 [![LightX2V](https://github-readme-stats-fredy.vercel.app/api/pin/?username=ModelTC&repo=LightX2V)](https://github.com/ModelTC/LightX2V)
 
-[![modal-examples](https://github-readme-stats-fredy.vercel.app/api/pin/?username=modal-labs&repo=modal-examples)](https://github.com/modal-labs/modal-examples)
 
 </p>
 
