@@ -24,7 +24,11 @@
 
 # Stats
 
-<a>
-  <img height=200 align="center" src="https://github-readme-stats-fredy.vercel.app/api?username=FredyRivera-dev&show_icons=true" />
-</a>
+<p align="center">
+  <img height=200 align="center" src="https://github-readme-stats-fredy.vercel.app/api?username=FredyRivera-dev&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height=200 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FredyRivera-dev&theme=tokyonight" />
+</p>
 
