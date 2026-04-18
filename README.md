@@ -1,5 +1,5 @@
 
-<img width="2560" height="1200" alt="Fredy" src="https://github.com/user-attachments/assets/0e3275d6-e3d0-4ef4-9956-64ec66069a05" />
+<img width="2560" height="800" alt="Fredy" src="https://github.com/user-attachments/assets/0e3275d6-e3d0-4ef4-9956-64ec66069a05" />
 
 
 
